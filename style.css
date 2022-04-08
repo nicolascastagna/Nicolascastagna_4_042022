@@ -832,6 +832,18 @@ h4 {
     background-image: url("img/image-de-presentation.webp");
 }
 
+@media only screen and (max-width: 1024px) and (orientation: landscape) {
+    .b-parallax {
+        background-attachment: scroll;
+    }
+}
+
+@media only screen and (max-width: 1366px) and (-webkit-min-device-pixel-ratio: 1.5) {
+    .b-parallax {
+        background-attachment: scroll;
+    }
+}
+
 @media (max-width: 1024px) {
     .bloc {
         padding-left: 20px;
