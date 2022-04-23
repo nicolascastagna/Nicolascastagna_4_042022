@@ -2,8 +2,8 @@
 
 4ème projet d'Openclassrooms - réalisé au mois de Avril 2022
 
-- Optimisation d'un site web existant en termes de vitesse de chargmement des pages,  
-- Améliroation SEO du site,
+- Optimisation d'un site web existant en termes de vitesse de chargement des pages,  
+- Amélioration SEO du site,
 - Amélioration du site en terme d'accessibilité,
 - Utilisation de l'outil Git et GitHub,
 - Modification du site web existant avec HTML et CSS.
